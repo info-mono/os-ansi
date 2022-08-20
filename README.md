@@ -1,13 +1,18 @@
 <h1 align="center">OS ANSI art</h1>
 <p align="center">OS/Distro's logo ANSI art</p>
-<p align="center"><a href="https://github.com/info-mono/os-ansi/blob/main/LICENSE"><img src="https://img.shields.io/github/license/info-mono/os-ansi?labelColor=383838&color=585858&style=for-the-badge" alt="License: GPL-3.0"></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#active-development"><img src="https://img.shields.io/github/last-commit/NNBnh/dots?labelColor=383838&color=585858&style=for-the-badge" alt="Active development"></a></p>
+<p align="center">
+  <a href="https://github.com/info-mono/os-ansi/blob/main/LICENSE"><img src="https://img.shields.io/github/license/info-mono/os-ansi?labelColor=383838&color=585858&style=for-the-badge" alt="License: GPL-3.0"></a>
+  <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#active-development"><img src="https://img.shields.io/github/last-commit/info-mono/os-ansi?labelColor=383838&color=585858&style=for-the-badge" alt="Active development"></a>
+</p>
 
 ## 💡 About
+
 **OS ANSI art** are OSs and Distros logo mostly from [Ufetch](https://gitlab.com/jschx/ufetch) then get convert and modify to [`.ansi`](https://en.wikipedia.org/wiki/ANSI_art) format.
 
-> *Check out [my other ANSI art collections](https://github.com/NNBnh/ansi).*
+> Check out [my other ANSI art collections](https://github.com/NNBnh/ansi).
 
 ## ⌨️ Usage
+
 <a href="https://asciinema.org/a/379073" target="_blank"><img align="right" width="50%" src="https://asciinema.org/a/379073.svg"></a>
 
 First [download](https://github.com/info-mono/os-ansi/archive/main.zip) or clone this repo:
@@ -47,6 +52,7 @@ _/\ __)/_)
 ```
 
 ## 💌 Credits
+
 Special thanks to:
 - [**Ufetch**](https://gitlab.com/jschx/ufetch) by [Jschx](https://gitlab.com/jschx)
 
